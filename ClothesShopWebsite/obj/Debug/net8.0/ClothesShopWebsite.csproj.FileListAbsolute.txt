@@ -120,9 +120,7 @@ D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\D
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ClothesShopWebsite.props
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ClothesShopWebsite.props
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\staticwebassets.pack.json
-D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\scopedcss\bundle\ClothesShopWebsite.styles.css
-D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\scopedcss\projectbundle\ClothesShopWebsite.bundle.scp.css
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\ClothesS.2DD1EE12.Up2Date
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\ClothesShopWebsite.dll
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\refint\ClothesShopWebsite.dll
@@ -250,3 +248,4 @@ D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\bin\D
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\IT\WebDevlop\WebProject_Ecommerce\ClothesShopWebsite\ClothesShopWebsite\obj\Debug\net8.0\ClothesShopWebsite.sourcelink.json

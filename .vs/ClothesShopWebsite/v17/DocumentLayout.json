@@ -3,15 +3,56 @@
   "WorkspaceRootPath": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\viewcomponent\\introducenewproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\viewcomponent\\introducenewproductviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\viewmodels\\introducenewproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\viewmodels\\introducenewproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\wwwroot\\home-02.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\wwwroot\\home-02.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\views\\shared\\_layouthomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\views\\shared\\_layouthomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\wwwroot\\home-03.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|solutionrelative:clothesshopwebsite\\wwwroot\\home-03.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A4CD974-F52C-456D-A364-9BB82C30499A}|ClothesShopWebsite\\ClothesShopWebsite.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\clothesshopwebsite\\clothesshopwebsite\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,35 +74,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Container.targets",
-              "DocumentMoniker": "C:\\Users\\hoang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
-              "ToolTip": "C:\\Users\\hoang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\build\\Container.targets",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAhwJUAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-06-22T09:37:09.907Z",
+              "DocumentIndex": 1,
+              "Title": "IntroduceNewProductVM.cs",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\ViewModels\\IntroduceNewProductVM.cs",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\ViewModels\\IntroduceNewProductVM.cs",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\ViewModels\\IntroduceNewProductVM.cs",
+              "RelativeToolTip": "ClothesShopWebsite\\ViewModels\\IntroduceNewProductVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:58:10.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "IntroduceNewProductViewComponent.cs",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\ViewComponent\\IntroduceNewProductViewComponent.cs",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\ViewComponent\\IntroduceNewProductViewComponent.cs",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\ViewComponent\\IntroduceNewProductViewComponent.cs",
+              "RelativeToolTip": "ClothesShopWebsite\\ViewComponent\\IntroduceNewProductViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:51:11.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ClothesShopWebsite\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:35:17.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutHomepage.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\Shared\\_LayoutHomepage.cshtml",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\Views\\Shared\\_LayoutHomepage.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\Shared\\_LayoutHomepage.cshtml",
+              "RelativeToolTip": "ClothesShopWebsite\\Views\\Shared\\_LayoutHomepage.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:13:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home-02.html",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\wwwroot\\home-02.html",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\wwwroot\\home-02.html",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\wwwroot\\home-02.html",
+              "RelativeToolTip": "ClothesShopWebsite\\wwwroot\\home-02.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAANUIAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-22T10:10:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ClothesShopWebsite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:35:21.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\appsettings.json",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\appsettings.json",
+              "RelativeToolTip": "ClothesShopWebsite\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T10:40:43.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ClothesShopWebsite\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:35:12.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ClothesShopWebsite\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T10:17:39.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HangHoasController.cs",
               "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Controllers\\HangHoasController.cs",
               "RelativeDocumentMoniker": "ClothesShopWebsite\\Controllers\\HangHoasController.cs",
               "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Controllers\\HangHoasController.cs",
               "RelativeToolTip": "ClothesShopWebsite\\Controllers\\HangHoasController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T09:36:41.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Program.cs",
               "RelativeDocumentMoniker": "ClothesShopWebsite\\Program.cs",
@@ -74,7 +221,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\wwwroot\\index.html",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\wwwroot\\index.html",
+              "RelativeToolTip": "ClothesShopWebsite\\wwwroot\\index.html",
+              "ViewState": "AQIAAIcGAAAAAAAAAAAAAJgGAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-22T10:36:37.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "home-03.html",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\wwwroot\\home-03.html",
+              "RelativeDocumentMoniker": "ClothesShopWebsite\\wwwroot\\home-03.html",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\wwwroot\\home-03.html",
+              "RelativeToolTip": "ClothesShopWebsite\\wwwroot\\home-03.html",
+              "ViewState": "AQIAAOsBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-22T10:16:34.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Hshop2023Context.cs",
               "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Data\\Hshop2023Context.cs",
               "RelativeDocumentMoniker": "ClothesShopWebsite\\Data\\Hshop2023Context.cs",
@@ -82,12 +255,11 @@
               "RelativeToolTip": "ClothesShopWebsite\\Data\\Hshop2023Context.cs",
               "ViewState": "AQIAAHMBAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T08:35:26.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T08:35:26.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ClothesShopWebsite\\Views\\Home\\Privacy.cshtml",
@@ -95,12 +267,11 @@
               "RelativeToolTip": "ClothesShopWebsite\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-22T07:38:14.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:38:14.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\ClothesShopWebsite\\ClothesShopWebsite\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ClothesShopWebsite\\Models\\ErrorViewModel.cs",
@@ -108,8 +279,7 @@
               "RelativeToolTip": "ClothesShopWebsite\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:38:12.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:38:12.912Z"
             }
           ]
         }
